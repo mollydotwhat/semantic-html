@@ -1,5 +1,5 @@
 # 01 HTML, CSS, and Git: Code Refactor
-
+i'll edit this later so it isn't just reflecting the instructions
 ## Challenges in This Course
 
 There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
