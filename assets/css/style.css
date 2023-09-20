@@ -9,7 +9,7 @@ body {
 }
 
 .header {
-    padding: 20px; /*i think this should be responsible for the padding at the bottom of the header too? but something i did broke that*/
+    padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
@@ -23,7 +23,8 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-.header nav .navbar /*changing section to nav broke it again, despite leaving the class*/ .navbar {
+
+.header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -31,13 +32,11 @@ body {
     font-size: 20px;
 }
 
-/*div to section*/
-.header section ul { 
+.header div ul {
     list-style-type: none;
 }
 
-/*div to section*/
-.header section ul li {
+.header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -80,7 +79,7 @@ p {
     margin-right: 20px;
     padding: 20px;
     clear: both;
-    float: right; /*also seems broken?*/
+    float: right;
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -189,13 +188,13 @@ p {
     font-size: 36px;
 }
 
-footer {
+.footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-footer h2 {
+.footer h2 {
     font-size: 20px;
 }
