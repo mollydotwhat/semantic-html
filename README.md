@@ -1,10 +1,10 @@
-![Preview image]()
+![Preview image](./assets/images/screenshot.png)
 [Refactored page]()
 
-#Assignment
+# Assignment
 • Edit code to reflect refactoring requirements
 
-##Requirements
+## Requirements
 • Change tags to semantic where possible/reasonable
 • Maintain functioning of CSS
 • Maintain function of page as a whole
