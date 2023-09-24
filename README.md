@@ -1,7 +1,8 @@
 ![Preview image](./assets/images/screenshot.png)
-[Refactored page](https://mollydotwhat.github.io/semantic-html/)
 
-# Assignment
+# [Refactored page](https://mollydotwhat.github.io/semantic-html/)
+
+## Assignment
 
 • Edit code to reflect refactoring requirements
 
