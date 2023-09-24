@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* basically just made sure to change the CSS to reflect elements changed in html */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -51,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/* this is the only function of that div */
 .hero {
     height: 800px;
     width: 100%;
